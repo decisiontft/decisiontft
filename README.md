@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=decisiontft&count_private=true&show_icons=true&theme=vue&hide_rank=false&line_height=27" />
   </a>
+
+<br>
+<br>
+<br>
+<br>
+<img src="https://camo.githubusercontent.com/fc761c0e92e13775d5af69a9c4ad23504184be5b10feaa1eb6909b9742889032/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d73706b30313031267468656d653d767565" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=decisiontft&amp;theme=vue" style="max-width: 100%;">
