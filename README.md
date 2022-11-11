@@ -23,6 +23,8 @@
 <br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=decisiontft&show_icons=true&locale=en" alt="decisiontft" /></p>
 
+  <a href="https://app.daily.dev/decisiontft"><img src="https://api.daily.dev/devcards/25d22b3dd09a4650ac05bd0b7d00cf2e.png?r=487" width="400vw" alt="Jayvardhan Bhardwaj's Dev Card"/></a>
+  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/decisiontft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="decisiontft" height="30" width="40" /></a>
